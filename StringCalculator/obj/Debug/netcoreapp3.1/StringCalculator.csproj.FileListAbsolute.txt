@@ -1,0 +1,13 @@
+C:\Users\Nithya\source\repos\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nithya\source\repos\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\Nithya\source\repos\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.AssemblyInfo.cs
+C:\Users\Nithya\source\repos\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nithya\source\repos\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.exe
+C:\Users\Nithya\source\repos\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.deps.json
+C:\Users\Nithya\source\repos\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.runtimeconfig.json
+C:\Users\Nithya\source\repos\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.runtimeconfig.dev.json
+C:\Users\Nithya\source\repos\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.dll
+C:\Users\Nithya\source\repos\StringCalculator\bin\Debug\netcoreapp3.1\StringCalculator.pdb
+C:\Users\Nithya\source\repos\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.dll
+C:\Users\Nithya\source\repos\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.pdb
+C:\Users\Nithya\source\repos\StringCalculator\obj\Debug\netcoreapp3.1\StringCalculator.genruntimeconfig.cache
